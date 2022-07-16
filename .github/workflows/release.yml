@@ -4,7 +4,7 @@ on:
     types: [created]
 jobs:
   releases-matrix:
-    name: Release tproxy binary
+    name: Release gateway binary
     runs-on: ubuntu-latest
     strategy:
       matrix:
