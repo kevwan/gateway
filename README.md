@@ -1,6 +1,6 @@
 # gateway
 
-HTTP to gRPC gateway standalone.
+HTTP to gRPC gateway standalone. An example of go-zero gateway.
 
 ## Usage
 
@@ -38,3 +38,7 @@ Upstreams:
 ```shell
 gateway -f config.yaml
 ```
+
+## Give a Star! ⭐
+
+If you like or are using this project, please give it a **star**. Thanks!
