@@ -1,12 +1,3 @@
-# gateway
-
-HTTP to gRPC gateway standalone.
-
-## Usage
-
-Example config:
-
-```yaml
 Name: gateway
 Host: localhost
 Port: 8888
@@ -31,10 +22,3 @@ Upstreams:
       - Method: post
         Path: /pingWorld
         Rpc: world.World/Ping
-```
-
-## Run the gateway
-
-```shell
-gateway -f config.yaml
-```
