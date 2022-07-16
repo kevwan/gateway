@@ -2,7 +2,7 @@ module github.com/kevwan/gateway
 
 go 1.18
 
-require github.com/zeromicro/go-zero v1.3.6-0.20220716061134-13477238a374
+require github.com/zeromicro/go-zero v1.3.6-0.20220716154053-b206dd28a3b8
 
 require (
 	github.com/beorn7/perks v1.0.1 // indirect

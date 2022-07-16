@@ -440,8 +440,8 @@ github.com/yuin/goldmark v1.3.5/go.mod h1:mwnBkeHKe2W/ZEtQ+71ViKU8L12m81fl3OWwC1
 github.com/yuin/gopher-lua v0.0.0-20210529063254-f4c35e4016d9 h1:k/gmLsJDWwWqbLCur2yWnJzwQEKRcAHXo6seXGuSwWw=
 github.com/yuin/gopher-lua v0.0.0-20210529063254-f4c35e4016d9/go.mod h1:E1AXubJBdNmFERAOucpDIxNzeGfLzg0mYh+UfMWdChA=
 github.com/yusufpapurcu/wmi v1.2.2/go.mod h1:SBZ9tNy3G9/m5Oi98Zks0QjeHVDvuK0qfxQmPyzfmi0=
-github.com/zeromicro/go-zero v1.3.6-0.20220716061134-13477238a374 h1:egc4KwWHqoJ+k4KfmU9HGUwwzzw9js+MrQhgKX0BcSc=
-github.com/zeromicro/go-zero v1.3.6-0.20220716061134-13477238a374/go.mod h1:76TOEKE3Xe6cvoxorFnOiTCTWu0sSs4oGbxwwIM08Ug=
+github.com/zeromicro/go-zero v1.3.6-0.20220716154053-b206dd28a3b8 h1:YQcF2azWmpoCDeDrNEYeN6bF6PDCxSecNnUsddN0x9s=
+github.com/zeromicro/go-zero v1.3.6-0.20220716154053-b206dd28a3b8/go.mod h1:76TOEKE3Xe6cvoxorFnOiTCTWu0sSs4oGbxwwIM08Ug=
 go.etcd.io/etcd/api/v3 v3.5.4 h1:OHVyt3TopwtUQ2GKdd5wu3PmmipR4FTwCqoEjSyRdIc=
 go.etcd.io/etcd/api/v3 v3.5.4/go.mod h1:5GB2vv4A4AOn3yk7MftYGHkUfGtDHnEraIjym4dYz5A=
 go.etcd.io/etcd/client/pkg/v3 v3.5.4 h1:lrneYvz923dvC14R54XcA7FXoZ3mlGZAgmwhfm7HqOg=
