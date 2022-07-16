@@ -2,6 +2,12 @@
 
 HTTP to gRPC gateway standalone. An example of go-zero gateway.
 
+## Install
+
+```shell
+go install github.com/kevwan/gateway@latest
+```
+
 ## Usage
 
 Example config:
