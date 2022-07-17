@@ -24,10 +24,11 @@ Upstreams:
         Key: hello.rpc
     # protoset mode
     ProtoSet: hello.pb
+    # Mapping is optional, auto mapping from annotations (google.api.http)
     Mapping:
       - Method: get
         Path: /pingHello/:ping
-        Rpc: hello.Hello/Ping
+        RpcPath: hello.Hello/Ping
   - Grpc:
       Endpoints:
         - localhost:8081
@@ -36,7 +37,7 @@ Upstreams:
     Mapping:
       - Method: post
         Path: /pingWorld
-        Rpc: world.World/Ping
+        RpcPath: world.World/Ping
 ```
 
 ## Run the gateway
